@@ -10,6 +10,7 @@ An online E-store system built in github.io .. etc. <_replace with other platfor
 - Kelvin Ng
 - Charles von Goins II
 - Eliot Seol
+- Darren Rodrigues
 
 
 
