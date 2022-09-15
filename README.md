@@ -10,7 +10,7 @@ An online E-store system built in github.io .. etc. <_replace with other platfor
 - Kelvin Ng
 - Charles von Goins II
 - Eliot Seol
->>>>>>> 4b858dec433a14f2af6ece761da31bfc406f2d87
+
 
 
 ## Prerequisites  <_add anything else that applies_>
