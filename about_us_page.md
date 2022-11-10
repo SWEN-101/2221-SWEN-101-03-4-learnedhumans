@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<html lang = 'en'>
+<meta charset="utf-8">
+<link href="about_us.css" rel="stylesheet"/>
 
 <h1 align="center">About Us</h1>
 
