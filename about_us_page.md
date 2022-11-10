@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<header align="center">About Us</header>
+<h1 align="center">About Us</h1>
 
 <body>
 <p align = "center">We seek to create an application that would allow the further development and understanding of AIs and how they operate in an ever-changing environment. 
