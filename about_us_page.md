@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang = 'en'>
+<html>
 <meta charset="utf-8">
 <link href="about_us.css" rel="stylesheet"/>
 
@@ -13,5 +14,6 @@
 </p>
 </body>
 
+</html>
 
 
